@@ -1,7 +1,7 @@
-# My **Open Publishing** Space
+# Bachelors in Computer Engineering
+ IOT & EMBEDDED SYSTEMS
 
-## Create, Share and Collaborate
+## 
+I was the type of student who learned most things online; it was always my preferred method of acquiring knowledge and passing exams. This is where the idea for this project arose. Everything is obviously available on the internet; it's just a matter of searching. So my goal is to gather as much valuable information as possible so that you can complete your degree from your PC. 
 
-![Photo of Mountain](images/mountain.jpg)
-
-[Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
+![Photo of Mountain](images/ISTIC-BC.png)
