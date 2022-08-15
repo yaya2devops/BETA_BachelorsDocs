@@ -1,9 +1,8 @@
-- [Semester Ⅰ](Semester1/1.md)
-- [Semester Ⅱ](Semester2/2.md)
-- [Semester Ⅲ](Semester3/3.md)
-- [Semester Ⅳ](Semester4/4.md)
-- [Semester Ⅴ](Semester5/5.md)
-
+- [Semester ❶](Semester1/1.md)
+- [Semester ❷](Semester2/2.md)
+- [Semester ❸](Semester3/3.md)
+- [Semester ❹](Semester4/4.md)
+- [Semester ❺](Semester5/5.md)
 
 
 **PROJECT INFO**  
