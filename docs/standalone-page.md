@@ -12,8 +12,7 @@ I was the type of student who learned most things online; it was always my prefe
 <div class="row">
 <div class="column">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, 
-
+I'm aware that Tunisian education is in French, but I wanted to make sure that all of the materials here are in English to get you closer to the market, as you won't need much of French.
 </div>
 <div class="column">
 
