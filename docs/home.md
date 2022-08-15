@@ -3,6 +3,6 @@
 
 ## 
 
-This is a good education blabla, say more why it's good and why it helps people get better in the Information technology and how its sexy as fck, as well as key things u gonna study here... nice
+This is a good education blabla, tell me more about why it's good and how it helps people get better at information technology and how it's attractive, as well as key things you'll learn here... nice
 
 ![Photo of Mountain](images/ISTIC-BC.png)
