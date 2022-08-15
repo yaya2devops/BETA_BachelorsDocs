@@ -8,7 +8,6 @@ I was the type of student who learned most things online; it was always my prefe
 ![Mountain](images/dream.png ':class=banner-tall-image')  
 
 
-
 <div class="row">
 <div class="column">
 
@@ -19,3 +18,5 @@ I'm aware that Tunisian education is in French, but I wanted to make sure that a
 The best way to predict the futur is to predict it. But what's the futur? TECHNOLOGY! <br>
 </div>
 </div>
+
+> Get Started with the [home](home) page.
