@@ -17,6 +17,5 @@ I'm aware that Tunisian education is in French, but I wanted to make sure that a
 <div class="column">
 
 The best way to predict the futur is to predict it. But what's the futur? TECHNOLOGY! <br>
-I'll make every effort to include as much useful information as possible. best wishes in ur studies! 
 </div>
 </div>
