@@ -1,5 +1,4 @@
 # 💻
-
 <h1 id="cover-heading">
     Computer Engineering | Bachelors Docs
 </h1>
