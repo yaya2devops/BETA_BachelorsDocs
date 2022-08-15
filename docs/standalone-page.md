@@ -15,7 +15,7 @@ I'm aware that Tunisian 🇹🇳 education is in French, but I wanted to make su
 </div>
 <div class="column">
 
-The best way to predict the futur is to predict it. But what's the futur? TECHNOLOGY! 
+The best way to predict the futur is to create it. But what's the futur? TECHNOLOGY! 
 
 ![TECH](images/innovate.png)
 </div>
