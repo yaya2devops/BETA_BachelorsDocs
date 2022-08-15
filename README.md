@@ -1,3 +1,0 @@
-# Project Introduction and Contribution.
-
-Blabla the insipiration...............
