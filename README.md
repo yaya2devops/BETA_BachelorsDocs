@@ -1,7 +1,8 @@
-# Project Introduction 
+# Beta Documentation 
 
-Documenting the path i took for students aiming to pick the same education. I'll work on this project like a beast.
+> Documenting the path i took for students aiming to pick the same education. 
 
+This theme serves as the starting point for the documentation. I had an idea for a new UI with a dark/white mode experience while interacting on it.
 
 
 # Contribution
