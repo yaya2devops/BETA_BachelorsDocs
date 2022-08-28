@@ -1,10 +1,8 @@
 # 💻
-
 <h1 id="cover-heading">
-  My Open Publishing Space
+    Computer Engineering | Bachelors Docs
 </h1>
 
-> Create, Share and Collaborate
+> Subjects, Chapters & Resources 🎉
 
 [Explore](home)
-[GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
