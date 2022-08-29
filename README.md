@@ -4,7 +4,7 @@
 
 This theme serves as the starting point for the documentation. I decided to improve the user experience by using a theme with a dark/light feature.
 
-### 👉Check out the update right here[ right here]()
+### 👉Check out the update right here[ right here](https://y4hya4.github.io/TheRealBachelorsDocs)
 
 
 # Contribution
